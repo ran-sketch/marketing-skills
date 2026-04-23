@@ -2,3 +2,4 @@ memory/
 .env
 *.env
 cold-outreach/prompts/
+.DS_Store
