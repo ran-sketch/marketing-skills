@@ -1,0 +1,4 @@
+memory/
+.env
+*.env
+cold-outreach/prompts/
